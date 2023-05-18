@@ -1,0 +1,370 @@
+/*start css*/ 
+ 
+ *{
+    margin: 0;
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+.brandf{
+    position: relative;
+    left: 500px;
+}
+
+header{
+    width: 100%;
+    height: 80px;
+    display: inline-block;
+    position: relative;
+    top: 20px;
+
+  
+}
+
+nav li{
+    line-height: 80px;
+    display: inline-block;
+    font-size: 30px;
+   position: relative;
+   bottom: 52px;
+   left: 450px;
+   padding:30px;
+   height: 40px;
+
+}
+
+li a{
+    text-decoration: none;
+    color: inherit;
+  position: relative;
+  right: 360px;
+  font-size: 20px;
+  font-weight: 20px;
+  
+
+}
+
+li a:hover{
+    border: 2px solid white;
+   background-color: black;
+   color: white;
+}
+
+.button1{
+    width: 150px;
+    height: 40px;
+    background-color: red;
+    color: aliceblue;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.button1:hover{
+    background-color: black;
+    color: aliceblue;
+}
+
+.search{
+    width: 100px;
+    height: 50px;
+    
+    margin: 10px;
+    position: relative;
+    left: 1453px;
+    bottom:100px;
+
+}
+
+/*main section*/
+
+.main1{
+    width:20%;
+    height:400px;
+
+display: inline-block;
+position: relative;
+bottom: 300px;
+margin: 20px;
+
+}
+
+.main2{
+    width:50%;
+    height:1500px;
+   
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    letter-spacing: 5px;
+    font-size: 30px;
+
+}
+
+hr{
+    color: blue;
+}
+
+.main2a{
+    width:100%;
+    height:100%;
+  
+    letter-spacing: 0px;
+ 
+}
+
+.main2b{
+    width:95%;
+    height:400px;
+    background-color: rgb(71, 69, 211);
+    letter-spacing: 0px;
+    text-align: left;
+  padding:20px;
+ 
+}
+
+.email{
+    width:70%;
+    height: 50px;
+    font-size: 30px;
+    position: relative;
+    left: 20px;
+    top: 40px;
+
+    
+}
+
+.up{
+    width:20%;
+    height: 54px;
+    font-size: 30px;
+    position: relative;
+    left: 20px;
+    top: 40px;
+    background-color: aqua;
+}
+
+
+.main3{
+    width:20%;
+    height:400px;
+  
+    display: inline-block;
+    position: relative;
+    bottom: 128px;
+    text-align: center;
+    font-size: 20pxs;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+/*main section end*/
+
+.rel{
+    border: 2px solid white;
+    border-radius: 5px;
+    width: 380px;
+    height: 300px;
+    background-color: rgb(34, 108, 218);
+    color: aliceblue;
+    padding:20px;
+    position: relative;
+    left: 1450px;
+    bottom: 90px;
+    font-size: larger;
+}
+
+.hr1{
+    color: aliceblue;
+}
+
+/*main section end */
+
+/*more like this*/
+
+.more{
+    width: 100%;
+    height: 700px;
+    background-color: rgb(207, 224, 224);
+}
+
+.like{
+    color: rgb(78, 98, 212);
+    font-size: 40px;
+    padding:30px;
+}
+
+.gray{
+    color: gray;
+}
+
+.zx{
+    padding: 20px;
+}
+
+.how{
+    width: 400px;
+    height: 100px;
+    position: relative;
+    left:10px;
+    color: black;
+    text-align: center;
+    font-size:30px;
+}
+
+.the{
+    width: 400px;
+    height: 100px;
+    position: relative;
+    left: 445px;
+    bottom: 99px;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+}
+
+.beware{
+    width: 400px;
+    height: 100px;
+    position: relative;
+    left: 870px;
+    bottom:199px;
+    color: black;
+    text-align: center;
+    font-size: larger;
+    text-align: center;
+    font-size: 30px;
+}
+
+.most{
+    width: 400px;
+    height: 100px;
+    position: relative;
+    left:1300px;
+    bottom:299px;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+}
+/*end of most*/
+
+/*you must sign in to post a comment*/
+.you{
+    width: 70%;
+    height: 600px;
+
+    position: relative;
+    left: 270px;
+}
+
+.you1{
+    width: 90%;
+    height: 250px;
+    background-color:rgb(212, 200, 200);
+    padding: 50px;
+    color: black;
+ font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+
+}
+
+.you1p{
+    font-size: 40px;
+}
+/*you must sign in to post a comment end*/
+
+/*footer start*/
+
+.footer1{
+    width: 100%;
+    height: 500px;
+ background-color: black;
+}
+
+.smr{
+    padding: 30px;
+}
+.footera{
+    color: aliceblue;
+    padding:40px;
+    font-size: 20px;
+}
+
+.footerb{
+    color: aliceblue;
+    padding:40px;
+    font-size: 20px;
+    width: 250px;
+    height: 300px;
+
+    position: relative;
+    left: 800px;
+    bottom: 280px;
+}
+
+.footerc{
+    color: aliceblue;
+    padding:40px;
+    font-size: 20px;
+    width: 200px;
+    height: 300px;
+   
+    position: relative;
+    left: 1110px;
+    bottom: 660px;
+}
+
+.footerd{
+    color: aliceblue;
+    padding:40px;
+    font-size: 20px;
+    width: 350px;
+    height: 200px;
+ 
+    position: relative;
+    left: 1450px;
+    bottom: 1020px;
+
+}
+
+.footere{
+    
+    position: relative;
+    bottom: 500px;
+    width: 100%;
+    height: 200px;
+    position: relative;
+    bottom: 1000px;
+    color: aliceblue;
+    font-size: 40px;
+}
+
+.searchlast{
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    position: relative;
+    top: 30px;
+}
+
+.buttonlast{
+    width: 90px;
+    height: 34px;
+    font-size: 20px;
+    background-color: aqua;
+    position: relative;
+    top: 30px;
+}
+
+ .buttonlast:hover{
+   background-color: red;
+}
+
+.lastimg{
+    padding: 40px;
+   background-color: black;
+}
+
+.lastimg:hover{
+    color: yellow;
+}
